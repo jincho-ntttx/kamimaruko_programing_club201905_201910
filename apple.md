@@ -155,9 +155,3 @@ Bowl's program is complete.
     Connect the blocks.The program is complete.
 
 ![Apple](figure/apple/apple_program.png)
-
-- 最後に、プログラムを保存してください。
-
-    Finally, save the program.
-
-![Common](figure/common/save.png)

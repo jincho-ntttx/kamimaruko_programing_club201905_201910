@@ -43,3 +43,29 @@ Develop the program in the order of "Bowl -> Apple -> Background".
 | [ボウル](bowl.md) | ボウルのプログラムの説明(Bowls's program description) |
 | [リンゴ](apple.md) | リンゴのプログラムの説明(Apple's program description) |
 | [背景](background_music.md) | 背景のプログラムの説明(Background program description) |
+
+# 4. プログラムの保存方法(How to save the program)
+
+Scrachのファイルのメニューから『コンピューターに保存する』を選択し、実行してください。
+
+From the Scrach file menu, select "Save to computer" and run it.
+
+![Common](figure/common/save.png)
+
+# 5. プログラムの実行・停止方法(How to run and stop the program)
+
+## 5-1. プログラムを実行(Run the program)
+
+旗のボタンを押してください。
+
+Press the flag button.
+
+![Common](figure/common/run_app_button.png)
+
+## 5-2. プログラムを停止(Stop the program)
+
+赤いボタンを押してください。
+
+Press the red button.
+
+![Common](figure/common/stop_app_button.png)

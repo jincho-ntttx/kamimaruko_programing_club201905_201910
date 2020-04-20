@@ -94,9 +94,3 @@ Set the "down arrow", "right arrow", and "left arrow" for the remaining blocks.
     Connect the blocks.The program is complete.
 
 ![Bowl](figure/bowl/bowl's_program_completed.png)
-
-- 最後に、プログラムを保存してください。
-
-Finally, save the program.
-
-![Common](figure/common/save.png)

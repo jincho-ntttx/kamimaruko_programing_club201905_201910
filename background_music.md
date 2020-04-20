@@ -67,9 +67,3 @@
     Connect the blocks.The program is complete.
 
 ![Background](figure/background/background_program_completed.png)
-
-- 最後に、プログラムを保存してください。
-
-Finally, save the program.
-
-![Common](figure/common/save.png)
